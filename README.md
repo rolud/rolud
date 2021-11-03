@@ -11,16 +11,4 @@
 
 </td>
 </tr>
-<tr>
-<td valign="top" style="width: 50%;">
-
-![SolidGlowAnimation](https://github-readme-stats.vercel.app/api/pin/?username=rolud&repo=SolidGlowAnimation&theme=synthwave)
-
-</td>
-<td valign="top" style="width: 50%;">
-
-![SolidGlowAnimation](https://github-readme-stats.vercel.app/api/pin/?username=rolud&repo=MyHome&theme=synthwave)
-
-</td>
-</tr>
 </table>
