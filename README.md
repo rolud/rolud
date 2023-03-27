@@ -23,8 +23,10 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rolud&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats-rho-one-88.vercel.app/api?username=rolud&show_icons=true&theme=synthwave)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rolud&langs_count=10&theme=synthwave&layout=compact)
+![Top Languages](https://github-readme-stats-rho-one-88.vercel.app/api/top-langs/?username=rolud&langs_count=10&theme=synthwave&layout=compact)
+
+[![willianrod's wakatime stats](https://github-readme-stats-rho-one-88.vercel.app/api/wakatime?username=rolud&theme=synthwave)](https://github.com/rolud/github-readme-stats)
 
 </div>
