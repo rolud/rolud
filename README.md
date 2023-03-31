@@ -1,9 +1,11 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e4bf7a,100:df6d74&height=300&section=header&text=Rocco%20Luigi%20Scarcella&fontSize=53&desc=Mobile%20Developer&descAlign=71)
+
 <p align="center">
-<a href="https://rolud.eu"><img alt="Website" src="https://img.shields.io/badge/website-rolud.eu-black"/></a>
 <a href="https://github/rolud"><img alt="GitHubStars" src="https://img.shields.io/github/stars/rolud?style=social"/></a>
 <a href="https://twitter.com/roluds"><img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-Rocco%20Luigi%20Scarcella-blue"/></a>
 <a href="https://www.linkedin.com/in/roccoluigiscarcella/"><img alt="LinkedIn" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Froluds"/></a>
+<a href="https://rolud.eu"><img alt="Website" src="https://img.shields.io/badge/website-rolud.eu-black"/></a>
 </p>
 
 <p align="center">
@@ -23,10 +25,12 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats-rho-one-88.vercel.app/api?username=rolud&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats-rho-one-88.vercel.app/api?username=rolud&show_icons=true&theme=onedark)
 
-![Top Languages](https://github-readme-stats-rho-one-88.vercel.app/api/top-langs/?username=rolud&langs_count=10&theme=synthwave&layout=compact)
+![Top Languages](https://github-readme-stats-rho-one-88.vercel.app/api/top-langs/?username=rolud&langs_count=10&theme=onedark&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats-rho-one-88.vercel.app/api/wakatime?username=rolud&theme=synthwave)](https://github.com/rolud/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats-rho-one-88.vercel.app/api/wakatime?username=rolud&theme=onedark&layout=compact)](https://github.com/rolud/github-readme-stats)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e4bf7a,100:df6d74&height=100&section=footer)
