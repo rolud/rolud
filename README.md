@@ -23,7 +23,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 ![Stats](https://github-readme-stats-rho-one-88.vercel.app/api?username=rolud&show_icons=true&theme=onedark)
 
@@ -31,6 +31,6 @@
 
 [![Wakatime stats](https://github-readme-stats-rho-one-88.vercel.app/api/wakatime?username=rolud&theme=onedark&layout=compact)](https://github.com/rolud/github-readme-stats)
 
-</div>
+</div> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e4bf7a,100:df6d74&height=100&section=footer)
